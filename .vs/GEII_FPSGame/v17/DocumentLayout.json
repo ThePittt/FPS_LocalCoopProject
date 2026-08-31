@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berna\\Documents\\Unreal Projects\\GEII_FPSGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A271CD0-F90E-36AF-82C3-F4B191951CAB}|Intermediate\\ProjectFiles\\GEII_FPSGame.vcxproj|C:\\Users\\berna\\Documents\\Unreal Projects\\GEII_FPSGame\\Source\\GEII_FPSGame\\GEII_FPS_Weapons_ShotgunPattern.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A271CD0-F90E-36AF-82C3-F4B191951CAB}|Intermediate\\ProjectFiles\\GEII_FPSGame.vcxproj|solutionrelative:Source\\GEII_FPSGame\\GEII_FPS_Weapons_ShotgunPattern.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A271CD0-F90E-36AF-82C3-F4B191951CAB}|Intermediate\\ProjectFiles\\GEII_FPSGame.vcxproj|C:\\Users\\berna\\Documents\\Unreal Projects\\GEII_FPSGame\\Source\\GEII_FPSGame\\GEII_FPS_Weapons_ShotgunPattern.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A271CD0-F90E-36AF-82C3-F4B191951CAB}|Intermediate\\ProjectFiles\\GEII_FPSGame.vcxproj|solutionrelative:Source\\GEII_FPSGame\\GEII_FPS_Weapons_ShotgunPattern.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A271CD0-F90E-36AF-82C3-F4B191951CAB}|Intermediate\\ProjectFiles\\GEII_FPSGame.vcxproj|C:\\Users\\berna\\Documents\\Unreal Projects\\GEII_FPSGame\\Source\\GEII_FPSGame\\GEII_FPS_Weapons.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A271CD0-F90E-36AF-82C3-F4B191951CAB}|Intermediate\\ProjectFiles\\GEII_FPSGame.vcxproj|solutionrelative:Source\\GEII_FPSGame\\GEII_FPS_Weapons.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A271CD0-F90E-36AF-82C3-F4B191951CAB}|Intermediate\\ProjectFiles\\GEII_FPSGame.vcxproj|C:\\Users\\berna\\Documents\\Unreal Projects\\GEII_FPSGame\\Source\\GEII_FPSGame\\GEII_FPS_Weapons.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A271CD0-F90E-36AF-82C3-F4B191951CAB}|Intermediate\\ProjectFiles\\GEII_FPSGame.vcxproj|solutionrelative:Source\\GEII_FPSGame\\GEII_FPS_Weapons.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A271CD0-F90E-36AF-82C3-F4B191951CAB}|Intermediate\\ProjectFiles\\GEII_FPSGame.vcxproj|C:\\Users\\berna\\Documents\\Unreal Projects\\GEII_FPSGame\\Source\\GEII_FPSGame\\GEII_FPSGameCharacter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A271CD0-F90E-36AF-82C3-F4B191951CAB}|Intermediate\\ProjectFiles\\GEII_FPSGame.vcxproj|solutionrelative:Source\\GEII_FPSGame\\GEII_FPSGameCharacter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A271CD0-F90E-36AF-82C3-F4B191951CAB}|Intermediate\\ProjectFiles\\GEII_FPSGame.vcxproj|C:\\Users\\berna\\Documents\\Unreal Projects\\GEII_FPSGame\\Source\\GEII_FPSGame\\GEII_FPS_Projectiles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A271CD0-F90E-36AF-82C3-F4B191951CAB}|Intermediate\\ProjectFiles\\GEII_FPSGame.vcxproj|solutionrelative:Source\\GEII_FPSGame\\GEII_FPS_Projectiles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A271CD0-F90E-36AF-82C3-F4B191951CAB}|Intermediate\\ProjectFiles\\GEII_FPSGame.vcxproj|C:\\Users\\berna\\Documents\\Unreal Projects\\GEII_FPSGame\\Source\\GEII_FPSGame\\GEII_FPSGameCharacter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A271CD0-F90E-36AF-82C3-F4B191951CAB}|Intermediate\\ProjectFiles\\GEII_FPSGame.vcxproj|solutionrelative:Source\\GEII_FPSGame\\GEII_FPSGameCharacter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GEII_FPS_Weapons_ShotgunPattern.h",
+              "DocumentMoniker": "C:\\Users\\berna\\Documents\\Unreal Projects\\GEII_FPSGame\\Source\\GEII_FPSGame\\GEII_FPS_Weapons_ShotgunPattern.h",
+              "RelativeDocumentMoniker": "Source\\GEII_FPSGame\\GEII_FPS_Weapons_ShotgunPattern.h",
+              "ToolTip": "C:\\Users\\berna\\Documents\\Unreal Projects\\GEII_FPSGame\\Source\\GEII_FPSGame\\GEII_FPS_Weapons_ShotgunPattern.h",
+              "RelativeToolTip": "Source\\GEII_FPSGame\\GEII_FPS_Weapons_ShotgunPattern.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-21T21:37:09.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GEII_FPS_Weapons_ShotgunPattern.cpp",
+              "DocumentMoniker": "C:\\Users\\berna\\Documents\\Unreal Projects\\GEII_FPSGame\\Source\\GEII_FPSGame\\GEII_FPS_Weapons_ShotgunPattern.cpp",
+              "RelativeDocumentMoniker": "Source\\GEII_FPSGame\\GEII_FPS_Weapons_ShotgunPattern.cpp",
+              "ToolTip": "C:\\Users\\berna\\Documents\\Unreal Projects\\GEII_FPSGame\\Source\\GEII_FPSGame\\GEII_FPS_Weapons_ShotgunPattern.cpp",
+              "RelativeToolTip": "Source\\GEII_FPSGame\\GEII_FPS_Weapons_ShotgunPattern.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-21T21:37:08.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GEII_FPSGameCharacter.h",
+              "DocumentMoniker": "C:\\Users\\berna\\Documents\\Unreal Projects\\GEII_FPSGame\\Source\\GEII_FPSGame\\GEII_FPSGameCharacter.h",
+              "RelativeDocumentMoniker": "Source\\GEII_FPSGame\\GEII_FPSGameCharacter.h",
+              "ToolTip": "C:\\Users\\berna\\Documents\\Unreal Projects\\GEII_FPSGame\\Source\\GEII_FPSGame\\GEII_FPSGameCharacter.h",
+              "RelativeToolTip": "Source\\GEII_FPSGame\\GEII_FPSGameCharacter.h",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAANkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-21T21:34:46.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GEII_FPSGameCharacter.cpp",
+              "DocumentMoniker": "C:\\Users\\berna\\Documents\\Unreal Projects\\GEII_FPSGame\\Source\\GEII_FPSGame\\GEII_FPSGameCharacter.cpp",
+              "RelativeDocumentMoniker": "Source\\GEII_FPSGame\\GEII_FPSGameCharacter.cpp",
+              "ToolTip": "C:\\Users\\berna\\Documents\\Unreal Projects\\GEII_FPSGame\\Source\\GEII_FPSGame\\GEII_FPSGameCharacter.cpp",
+              "RelativeToolTip": "Source\\GEII_FPSGame\\GEII_FPSGameCharacter.cpp",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAMwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-21T21:34:45.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GEII_FPS_Projectiles.cpp",
+              "DocumentMoniker": "C:\\Users\\berna\\Documents\\Unreal Projects\\GEII_FPSGame\\Source\\GEII_FPSGame\\GEII_FPS_Projectiles.cpp",
+              "RelativeDocumentMoniker": "Source\\GEII_FPSGame\\GEII_FPS_Projectiles.cpp",
+              "ToolTip": "C:\\Users\\berna\\Documents\\Unreal Projects\\GEII_FPSGame\\Source\\GEII_FPSGame\\GEII_FPS_Projectiles.cpp",
+              "RelativeToolTip": "Source\\GEII_FPSGame\\GEII_FPS_Projectiles.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-21T12:58:28.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GEII_FPS_Weapons.h",
+              "DocumentMoniker": "C:\\Users\\berna\\Documents\\Unreal Projects\\GEII_FPSGame\\Source\\GEII_FPSGame\\GEII_FPS_Weapons.h",
+              "RelativeDocumentMoniker": "Source\\GEII_FPSGame\\GEII_FPS_Weapons.h",
+              "ToolTip": "C:\\Users\\berna\\Documents\\Unreal Projects\\GEII_FPSGame\\Source\\GEII_FPSGame\\GEII_FPS_Weapons.h",
+              "RelativeToolTip": "Source\\GEII_FPSGame\\GEII_FPS_Weapons.h",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAQwHEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-19T11:04:29.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GEII_FPS_Weapons.cpp",
+              "DocumentMoniker": "C:\\Users\\berna\\Documents\\Unreal Projects\\GEII_FPSGame\\Source\\GEII_FPSGame\\GEII_FPS_Weapons.cpp",
+              "RelativeDocumentMoniker": "Source\\GEII_FPSGame\\GEII_FPS_Weapons.cpp",
+              "ToolTip": "C:\\Users\\berna\\Documents\\Unreal Projects\\GEII_FPSGame\\Source\\GEII_FPSGame\\GEII_FPS_Weapons.cpp",
+              "RelativeToolTip": "Source\\GEII_FPSGame\\GEII_FPS_Weapons.cpp",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAALUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-19T11:04:28.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
